@@ -4,7 +4,7 @@ My name is Artur Mostowski and I am a software engineer. I am also currently liv
 
 ## Languages & Technologies
 
-### Professinal
+### Professional
 <!-- General -->
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=gray)
