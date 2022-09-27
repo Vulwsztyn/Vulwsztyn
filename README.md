@@ -55,6 +55,8 @@ My name is Artur Mostowski and I am a software engineer. I am also currently liv
 
 ## Statistics
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vulwsztyn)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://github.com/Vulwsztyn/Vulwsztyn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vulwsztyn&hide=jupyter notebook, html&title_color=ffffff&text_color=c9cacc&icon_color=gray&bg_color=1d1f21" />
 </a>
